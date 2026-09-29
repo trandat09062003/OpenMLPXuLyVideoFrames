@@ -1,0 +1,16 @@
+# Binaries & Compiled objects
+video_omp
+video_omp.exe
+*.o
+*.so
+
+# Video files (large data)
+*.mp4
+*.avi
+*.mkv
+
+# Python / Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
